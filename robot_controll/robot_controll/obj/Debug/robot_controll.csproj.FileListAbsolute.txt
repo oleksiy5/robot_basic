@@ -1,0 +1,13 @@
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\bin\Debug\robot_controll.exe.config
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\bin\Debug\robot_controll.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\bin\Debug\robot_controll.pdb
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.Form1.resources
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.Properties.Resources.resources
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.csproj.GenerateResource.Cache
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\obj\Debug\robot_controll.pdb
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\bin\Debug\RoboController.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\bin\Debug\RoboController.pdb
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\robot_controll\bin\Debug\RoboController.exe.config

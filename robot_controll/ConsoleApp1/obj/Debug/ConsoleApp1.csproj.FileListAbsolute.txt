@@ -1,0 +1,6 @@
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

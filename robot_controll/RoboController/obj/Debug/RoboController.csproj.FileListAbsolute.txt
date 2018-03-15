@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\bin\Debug\RoboController.exe.config
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\bin\Debug\RoboController.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\bin\Debug\RoboController.pdb
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\obj\Debug\RoboController.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\obj\Debug\RoboController.exe
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\obj\Debug\RoboController.pdb
+C:\Users\Oleksiy\Desktop\begin-absolut\4-class and objets\robot_controll\RoboController\obj\Debug\RoboController.csprojResolveAssemblyReference.cache
